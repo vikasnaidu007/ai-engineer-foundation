@@ -1,0 +1,20 @@
+Python | LangChain | CrewAI | LangGraph | LlamaIndex | RAG | OpenAI / LLMs | n8n | Flask | REST APIs | Vector Databases
+LinkedIn “About” Section (Best Version for You)
+I am an AI Engineer / Agentic AI Developer with a strong foundation in Python and hands-on experience building LLM-powered applications, RAG systems, and multi-agent workflows.
+I have practical experience in:
+Python programming (functions, OOPS, data structures, recursion)
+Prompt engineering (role prompting, structured outputs, self-consistency)
+LangChain (chains, agents, output parsers, memory)
+Retrieval Augmented Generation (RAG) using PDFs, CSVs, web data, embeddings, and vector stores
+Text splitters, document loaders, embeddings & vector databases
+LangGraph for state-based and conditional agent workflows
+Multi-agent systems using CrewAI with human-in-the-loop, memory, and tool integration
+LlamaIndex for data-centric RAG and agent implementations
+Automation with n8n, including Telegram bots, calendar agents, and API-based workflows
+REST API development using Flask to expose AI services
+I enjoy designing real-world AI systems that go beyond chatbots and focus on:
+Decision-making agents
+Multi-agent collaboration
+Enterprise-safe workflows with human approvals
+AI + automation integrations
+Currently, I am focused on building production-ready AI agents, strengthening my portfolio, and preparing for AI Engineer / Agentic AI Engineer roles.

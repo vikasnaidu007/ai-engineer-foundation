@@ -1,0 +1,14 @@
+🔹 DAY 4 — Feature Engineering + Model Persistence
+Concepts to Learn
+Feature engineering basics
+Data preprocessing
+Scaling & normalization
+Model persistence
+Config-driven applications
+Hands-On
+Preprocess data
+Save trained model using pickle or joblib
+Load model and run predictions
+Outcome
+Reusable ML pipeline
+Production-ready model handling

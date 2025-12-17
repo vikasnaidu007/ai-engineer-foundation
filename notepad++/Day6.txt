@@ -1,0 +1,14 @@
+🔹 DAY 6 — Docker for AI Engineers
+Concepts to Learn
+What is Docker
+Image vs container
+Dockerfile
+Environment variables
+Container lifecycle
+Hands-On
+Write Dockerfile
+Dockerize FastAPI application
+Run container locally
+Outcome
+Production-ready AI service
+Deployment readiness

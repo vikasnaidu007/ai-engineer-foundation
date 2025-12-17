@@ -1,0 +1,16 @@
+🔹 DAY 3 — Machine Learning Basics
+Concepts to Learn
+What is Machine Learning
+Supervised vs Unsupervised learning
+Features & labels
+Train/test split
+Model evaluation metrics
+Hands-On
+Build:
+Linear Regression
+Logistic Regression
+Train model
+Evaluate accuracy
+Outcome
+ML workflow understanding
+First ML models built

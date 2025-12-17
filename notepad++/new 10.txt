@@ -1,0 +1,13 @@
+🔹 DAY 10 — LangChain & AI Agents
+Concepts to Learn
+LangChain basics
+Chains
+Prompts
+Tools
+Agents concept
+Hands-On
+Build RAG chatbot using LangChain
+Add simple agent behavior
+Outcome
+Advanced AI application
+Agentic AI understanding

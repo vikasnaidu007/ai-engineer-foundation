@@ -1,0 +1,15 @@
+🔹 DAY 7 — AWS Basics + Deployment
+Concepts to Learn
+AWS global infrastructure
+EC2 basics
+IAM users vs roles
+Security Groups
+Public IP & ports
+Hands-On
+Launch EC2 instance
+Install Docker on EC2
+Deploy Dockerized AI API
+Access API via browser
+Outcome
+AI service live on cloud
+Strong infra + AI advantage

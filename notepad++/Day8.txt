@@ -1,0 +1,14 @@
+🔹 DAY 8 — LLM & GenAI Fundamentals
+Concepts to Learn
+What are LLMs
+Tokens & context window
+Prompt engineering
+Temperature & max tokens
+Cost awareness
+Hands-On
+Call LLM API (OpenAI / Bedrock)
+Write effective prompts
+Analyze responses
+Outcome
+GenAI fundamentals clear
+LLM usage confidence

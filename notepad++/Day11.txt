@@ -1,0 +1,11 @@
+🔹 DAY 11 — AWS Bedrock (Optional but Powerful)
+Concepts to Learn
+What is AWS Bedrock
+Foundation models
+When to use Bedrock vs OpenAI
+Security & IAM integration
+Hands-On
+Call Bedrock LLM
+Replace OpenAI with Bedrock in RAG
+Outcome
+Cloud-native GenAI experience

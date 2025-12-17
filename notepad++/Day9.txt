@@ -1,0 +1,15 @@
+🔹 DAY 9 — RAG (Retrieval Augmented Generation)
+Concepts to Learn
+Why RAG is needed
+Embeddings
+Vector databases
+Similarity search
+RAG architecture
+Hands-On
+Load documents (PDF/Text)
+Generate embeddings
+Store in FAISS / Chroma
+Query documents using LLM
+Outcome
+Industry-grade AI skill
+RAG pipeline implemented

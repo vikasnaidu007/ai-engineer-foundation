@@ -1,0 +1,35 @@
+
+
+
+
+
+
+
+
+🗓️ WEEK 2 — GENAI, RAG & REAL-WORLD SYSTEMS
+
+
+
+
+
+
+
+📂 Recommended GitHub Project Structure
+ai-engineer-foundation/
+│
+├── app/
+│   ├── main.py
+│   ├── model.py
+│   ├── rag.py
+│
+├── data/
+├── models/
+├── Dockerfile
+├── requirements.txt
+├── README.md
+✅ FINAL CONFIRMATION
+This plan is:
+✔ Realistic for 4–5 hrs/day
+✔ Designed for AI Engineer (3-year AI)
+✔ Balanced between theory & practice
+✔ Strong for interviews & resume

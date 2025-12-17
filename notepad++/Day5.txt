@@ -1,0 +1,15 @@
+🔹 DAY 5 — FastAPI (AI Engineer Core Skill)
+Concepts to Learn
+What is an API
+REST architecture
+FastAPI basics
+Request & response models
+Error handling
+API validation
+Hands-On
+Create FastAPI app
+Expose ML model as REST API
+Test endpoints using browser/Postman
+Outcome
+AI service exposed as API
+Backend integration mindset

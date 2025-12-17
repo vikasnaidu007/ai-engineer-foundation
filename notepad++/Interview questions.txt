@@ -1,0 +1,8 @@
+Q1. Why use if __name__ == "__main__"?
+It makes sure the code runs only when the file is executed directly, not when it is imported into another file.
+
+Q2. Why return an empty list on exception?
+It prevents the program from crashing and allows the rest of the code to continue safely.
+
+Q3. Why use a virtual environment?
+It keeps project libraries separate, so different projects do not affect each other.

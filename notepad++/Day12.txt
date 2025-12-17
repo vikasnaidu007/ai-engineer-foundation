@@ -1,0 +1,14 @@
+🔹 DAY 12 — Monitoring, Logging & Reliability
+Concepts to Learn
+Logging best practices
+Latency tracking
+Error handling
+Token usage monitoring
+Cost control
+Hands-On
+Add logs to AI API
+Measure response time
+Handle failures gracefully
+Outcome
+Production mindset
+Reliability focus

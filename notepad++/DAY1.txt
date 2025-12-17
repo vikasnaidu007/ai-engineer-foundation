@@ -1,0 +1,21 @@
+🔹 DAY 1 — Python Fundamentals + Project Setup
+Concepts to Learn
+Python project structure
+Virtual environments (venv)
+Python data types
+Functions
+Exception handling
+File handling (read/write files)
+Clean code practices
+Hands-On
+Create AI project folder
+Setup virtual environment
+Write Python script to:
+Read data from file
+Process data
+Handle errors
+Run script from terminal
+Outcome
+Python fundamentals refreshed
+Clean project structure
+First GitHub commit

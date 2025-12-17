@@ -1,0 +1,16 @@
+🔹 DAY 2 — Data Handling + APIs
+Concepts to Learn
+CSV vs JSON
+Pandas basics
+Reading/writing datasets
+REST APIs
+HTTP methods (GET, POST)
+HTTP status codes
+Hands-On
+Load CSV using Pandas
+Convert CSV → JSON
+Call a public API using requests
+Parse API response
+Outcome
+Data processing confidence
+API interaction skills
